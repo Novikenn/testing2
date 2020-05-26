@@ -1,0 +1,2 @@
+print("abcdef")
+print("ghijkl")
